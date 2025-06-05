@@ -38,3 +38,6 @@ public class Cuenta {
         System.out.println("[" + ahora.format(formato) + "] " + tipo + " de $" + monto);
     }
 }
+/*
+ * 
+ */

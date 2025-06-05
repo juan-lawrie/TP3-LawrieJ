@@ -55,6 +55,7 @@ public class Ejercicio1 {
             estudiantes[i].mostrarInformacion();
             estudiantes[i].aprobo();
             System.out.println();
+        sc.close();
         }
     }
 }

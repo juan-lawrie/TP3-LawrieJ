@@ -14,6 +14,7 @@ public class Principal {
         System.out.println("1. Ejercicio 1");
         System.out.println("2. Ejercicio 2");
          System.out.println("3. Ejercicio 3");
+         System.out.println("4. Ejercicio 4");
         System.out.println("5. Ejercicio 5");
         // Aquí puedes agregar más ejercicios en el futuro
         System.out.print("Opción: ");
@@ -28,6 +29,9 @@ public class Principal {
                 break;
               case 3:
                 Ejercicio3.ejecutar();
+                break;
+            case 4:
+                resol.LawrieJ.Ejercicio4.Ejercicio4.ejecutar();
                 break;
              case 5:
                   Ejercicio5.ejecutar();
